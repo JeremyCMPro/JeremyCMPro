@@ -1,16 +1,44 @@
-## Hi there 👋
+# Jeremy Calosso-Merlino
 
-<!--
-**JeremyCMPro/JeremyCMPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a freelance Full Stack Developper, my goal is to bring your projects to life and make them growth. \
+For me, everything matter and not only the technical part so I'm bringing new ideas, new vision and follow-ups.
 
-Here are some ideas to get you started:
+## Technologies & Stacks
+I'm using a lot of technologies and stacks. You will find the principales below \
+<br>
+Web: \
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,rails,symfony" />
+</a>
+<br>
+<br>
+Mobile: \
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin" />
+</a>
+<br>
+<br>
+Environment: \
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,mysql,firebase,postman" />
+</a>
+<br>
+<br>
+Perso projects: \
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,raspberrypi" />
+</a>
+<br>
+<br>
+<br>
+*\*this is an exhaustive list*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeremyCMPro&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyCMPro&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
