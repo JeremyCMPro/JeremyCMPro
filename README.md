@@ -31,7 +31,7 @@ Perso projects: \
 <br>
 <br>
 <br>
-*\*this is an exhaustive list*
+*\*this isn't an exhaustive list*
 
 ## Statistics
 <br>
