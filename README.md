@@ -36,9 +36,5 @@ Perso projects: \
 ## Statistics
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremyCMPro&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-</div>
-<br>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyCMPro&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
