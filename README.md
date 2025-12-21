@@ -1,6 +1,6 @@
 # Jeremy Calosso-Merlino
 
-As a freelance Full Stack Developper, my goal is to bring your projects to life and make them growth. \
+As a freelance Full Stack Developper, my goal is to bring your projects to life and make them grow. \
 For me, everything matter and not only the technical part so I'm bringing you new ideas, new vision and follow-ups.
 
 ## Technologies & Stacks
